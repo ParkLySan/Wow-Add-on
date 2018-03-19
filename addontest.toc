@@ -1,0 +1,9 @@
+## Interface : 70200
+## Title : AddonTest
+## Author : Malwen_Dalaran
+## Notes : Test
+## Version : 0.1
+
+kindaddon.lua
+moneywatcher.lua
+fight.lua
